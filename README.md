@@ -9,7 +9,7 @@ Languages: Ukrainian and Russian (native), Czech (advanced), English (B1).
 ### BoardGame Club
 A web application for organizing board game sessions. Users create events, moderators approve them, and participants join and chat in each event. Roles: guest, user, organizer, moderator, admin.
 PHP 8.2, Nette, MariaDB, Docker.
-[Repository](https://github.com/ITperun/<имя-публичного-репозитория>)
+[Repository](https://github.com/ITperun/BoardgameClub-website)
 
 ### Web Log Analyzer
 A PHP tool that parses Apache and Nginx access logs, reports the most active IP addresses and status codes, and flags brute-force attempts and night-time admin logins. No external dependencies.
